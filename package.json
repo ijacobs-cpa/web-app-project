@@ -12,5 +12,8 @@
     "url": "web-app-project"
   },
   "author": "Ian Jacobs",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
